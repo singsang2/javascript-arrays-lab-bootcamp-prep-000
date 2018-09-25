@@ -1,5 +1,5 @@
 // Add your functions and code here
-function destructivelyAppendKittens(name){
+function destructivelyAppendKitten(name){
   kitten.push(name)
   return kitten
 }
